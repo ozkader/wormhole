@@ -60,6 +60,8 @@ GUARDIAND
 guardiand's
 Hacken
 hashdump
+healthcheck
+Healthcheck
 hexdump
 holesky
 Holesky
