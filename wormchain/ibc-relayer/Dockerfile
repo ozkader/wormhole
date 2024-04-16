@@ -1,4 +1,4 @@
-FROM docker.io/golang:1.21.8-bullseye@sha256:81d98548f08e22a59c5c0be814acc0997f3dfd3313487adcf4e1d3d962af3a43
+FROM docker.io/golang:1.21.9-bullseye@sha256:311468bffa9fa4747a334b94e6ce3681b564126d653675a6adc46698b2b88d35
 
 #used for a readiness probe
 RUN apt-get update
